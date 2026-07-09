@@ -89,4 +89,4 @@ LinkedIn:
 https://www.linkedin.com/in/taha-ak-57875b268/
 
 Email:
-your@email.com
+jtaha8964@gmail.com
