@@ -86,10 +86,7 @@ Android Studio
 ## 🌐 Connect with Me
 
 LinkedIn:
-Your LinkedIn
-
-Portfolio:
-Your Portfolio
+https://www.linkedin.com/in/taha-ak-57875b268/
 
 Email:
 your@email.com
